@@ -1,0 +1,6 @@
+__pycache__
+.DS_store
+.git
+dist/
+inputs/**/*.txt
+node_modules/
